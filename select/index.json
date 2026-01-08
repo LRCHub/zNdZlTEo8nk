@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "黄色",
+  "base_artist": "back number",
+  "createdAt": "2026-01-08T11:36:54.391910Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "黄色",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/01_黄色_back_number.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "黄色 - Yellow",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/02_黄色_-_Yellow_back_number.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "黄色 - Yellow",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/03_黄色_-_Yellow_back_number.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "黄色",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/04_黄色_back_number.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "黄色",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_黄色_back_number.txt"
+    }
+  ]
+}
